@@ -1,0 +1,13 @@
+# -------------- VM  version 1.1 ------------- #
+#                                              #
+# 42 / filler VM Developped by: Hcao - Abanlin #
+#                                              #
+# -------------------------------------------- #
+launched players/ikarishe.filler
+$$$ exec p1 : [players/ikarishe.filler]
+launched players/nmei.filler
+$$$ exec p2 : [players/nmei.filler]
+Plateau 2 3:
+    012
+000 a b
+001 c .
